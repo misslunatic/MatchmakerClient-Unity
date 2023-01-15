@@ -23,7 +23,7 @@ This is a project for implementing a Matchmaker API into Unity3D.
 It can be expanded with custom packets as needed.
 <br />
 <br />
-It depends on another project to be used in Unity. https://github.com/Techiesplash/MatchmakerServecr
+It depends on another project to be used in Unity. https://github.com/Techiesplash/MatchmakerServer
 <br />
 
 ![UVS Preview](./Images/preview.png)
