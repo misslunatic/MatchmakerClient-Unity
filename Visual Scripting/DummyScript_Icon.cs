@@ -1,0 +1,7 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DummyScript_Icon : MonoBehaviour
+{
+}
