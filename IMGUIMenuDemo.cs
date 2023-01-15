@@ -23,12 +23,12 @@ public class IMGUIMenuDemo : MonoBehaviour, IMatchmaker
     private void Refresh()
     {
         IMatchmaker.Connect();
-       /* var x = IMatchmaker.GetAllLobbyIdsByAttribute("public", "True");
+        var x = IMatchmaker.GetAllLobbyIdsByAttribute("public", "True");
         foreach (var y in x)
         {
             ServerList.Add(IMatchmaker.GetLobbyAttribute(y, "_auto_ip"));
-        }*/
-      //  IMatchmaker.Disconnect();
+        }
+        IMatchmaker.Disconnect();
     }
 
     private void OnGUI()
